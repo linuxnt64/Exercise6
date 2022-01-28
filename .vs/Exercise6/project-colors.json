@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69a5bcdb-16ed-4624-b54e-a21e67e4aec2": {
+      "ProjectGuid": "69a5bcdb-16ed-4624-b54e-a21e67e4aec2",
+      "DisplayName": "CodeFirstDB",
+      "ColorIndex": 0
+    },
+    "795724d0-ae4f-4721-b45b-d59a124a1437": {
+      "ProjectGuid": "795724d0-ae4f-4721-b45b-d59a124a1437",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
